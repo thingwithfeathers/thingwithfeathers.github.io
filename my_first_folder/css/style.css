@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Slabo+27px');
+
+p {
+  background-color: #6666ff;
+  color: #e6e6ff
+  font-family: "Slabo", sans-serif;
+
+}
+
+
+body { background-color: #6666ff;
+
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  letter-spacing: 1px;
+  font-family: "Merriweather", serif;
+}
+
+.fish {
+color: orange;
+}
+
+#FirstList {
+  background-color: lime;
+}

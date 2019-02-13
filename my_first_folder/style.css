@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Slabo+27px');
+body {
+  background-color: #6666ff;
+  color: #e6e6ff
+  font-family: "Slabo", sans-serif;
+
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  letter-spacing: 1px;
+  font-family: "Merriweather", serif;
+}
