@@ -17,6 +17,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-family: "Merriweather", serif;
+  background-color: green;
 }
 
 .fish {
